@@ -1,5 +1,5 @@
 #!/bin/bash
-# Installs Square's IntelliJ configs into your user configs.
+# Installs Door2Door's IntelliJ configs into your user configs.
 
 echo "Installing Door2Door AndroidStudio configs..."
 
