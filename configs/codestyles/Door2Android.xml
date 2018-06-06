@@ -664,10 +664,13 @@
     </arrangement>
   </codeStyleSettings>
   <codeStyleSettings language="kotlin">
-    <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="CALL_PARAMETERS_WRAP" value="1" />
     <option name="METHOD_PARAMETERS_WRAP" value="1" />
+    <option name="METHOD_CALL_CHAIN_WRAP" value="1" />
+    <option name="ASSIGNMENT_WRAP" value="1" />
+    <option name="PARAMETER_ANNOTATION_WRAP" value="1" />
+    <option name="ENUM_CONSTANTS_WRAP" value="1" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
